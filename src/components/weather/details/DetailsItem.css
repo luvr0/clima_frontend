@@ -1,0 +1,9 @@
+.overall__container__details_item h1 {
+    font-size: 24px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.overall__container__details_item span {
+    font-size: 32px;
+}

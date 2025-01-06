@@ -1,0 +1,6 @@
+.overall__container__details_line {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 50px;
+}

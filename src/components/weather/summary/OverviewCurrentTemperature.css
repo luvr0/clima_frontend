@@ -1,0 +1,11 @@
+.overview__current__temperature {
+    width: 100%;
+    height: 25%;
+    display: flex;
+}
+
+
+.overview__current__temperature h1 {
+    font-size: 32px;
+    font-weight: 400;
+}
